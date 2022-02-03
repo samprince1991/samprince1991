@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, AWS and Unreal design**
 
-- 👨‍💻 All of my projects are available at [https://github.com/samprince1991](https://github.com/samprince1991)
+- 👨‍💻 Some of my projects are available at [https://github.com/samprince1991](https://github.com/samprince1991). Remaining  projects are all private !
 
 - 💬 Ask me about **AWS, full stack development using nodejs**
 
