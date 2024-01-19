@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Princely samuel</h1>
 <h3 align="center">A passionate web developer working on various projects such as custom web dashboards, data processing tools , hotel management tools, middleware tools etc</h3>
 
-- 🌱 I’m currently learning **Advanced SQL, React & AWS and Unreal design**
+- 🌱 I’m currently learning **Advanced SQL & JS Libraries **
 
 - 👨‍💻 My projects are available at [https://github.com/samprince1991](https://github.com/samprince1991)
 
