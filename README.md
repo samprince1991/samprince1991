@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Princely samuel</h1>
-<h3 align="center">A passionate web developer working on various projects such as custom web dashboards, data processing tools , hotel management tools, middleware tools etc</h3>
+<h3 align="center">A passionate web developer working on various projects such as Broadcast Graphics Tools, custom web dashboards, data processing tools , hotel management tools, middleware tools etc</h3>
 
-- 🌱 I’m currently learning **Advanced SQL & JS Libraries **
+- 🌱 I’m currently learning **Advanced AI Tools, Broadcast Graphics Products **
 
 - 👨‍💻 My projects are available at [https://github.com/samprince1991](https://github.com/samprince1991)
 
-- 💬 Ask me about **web development, scripting & broadcast graphics**
+- 💬 Ask me about ** broadcast graphics, web development & scripting **
 
 - 📫 How to reach me **samprince1991@gmail.com**
 
